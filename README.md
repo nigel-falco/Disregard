@@ -10,6 +10,7 @@ vi index.md
 git remote add upstream https://github.com/falcosecurity/falco-website.git
 git checkout -b falco-okta-identity
 git add . && git commit -s -m "Falco Blog about Okta Plugin" && git push upstream falco-okta-identity
+git push origin falco-okta-identity
 ```
 
 uncomment ```blog``` and 
