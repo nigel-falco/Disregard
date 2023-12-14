@@ -4,6 +4,7 @@ This branch is ```NOT up to date``` with ```falcosecurity/falco-website:master``
 Click ```Sync Fork``` in the UI of ```https://github.com/nigel-falco/falco-website``` to use the latest version of the project.
 
 ```
+git rev-parse --abbrev-ref HEAD
 git clone https://github.com/nigel-falco/falco-website.git
 cd falco-website/content/en/blog
 mkdir falco-okta-identity
