@@ -22,9 +22,16 @@ uncomment ```blog``` and ```community``` since it's a community-focused blog.
 
 <img width="1424" alt="Screenshot 2023-12-12 at 16 40 20" src="https://github.com/nigel-falco/Disregard/assets/152274017/cf062551-7d2e-44ea-b8a0-44dc4a4c4e1b">
 
-
-
-
+```
+git remote -v
+git fetch upstream
+git log
+git show HEAD
+git branch
+git status
+git commit --amend
+git push -u origin atomic-red-falco --force
+```
 
 
 
