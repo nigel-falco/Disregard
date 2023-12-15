@@ -31,6 +31,7 @@ git branch
 git status
 git commit --amend
 git push -u origin atomic-red-falco --force
+git switch atomic-red-falco
 ```
 
 
